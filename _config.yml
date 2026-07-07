@@ -1,6 +1,0 @@
-title: "CMPN202 Operating Systems Journal"
-description: "Weekly technical journal published for coursework"
-theme: minima
-markdown: kramdown
-kramdown:
-  input: GFM
